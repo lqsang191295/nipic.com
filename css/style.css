@@ -1,0 +1,8 @@
+@font-face {
+    font-family: nexa-black;
+    src: url('../fonts/Nexa-Black-Italic.otf');
+}
+
+html, body {
+    font-family: 'nexa-black';
+}
